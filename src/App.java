@@ -1,5 +1,2 @@
-public class git initApp {
-    public static void main(String[] args) {
-        System.out.println("Test!");
-    }
+package PACKAGE_NAME;public class App {
 }
